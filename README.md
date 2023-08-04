@@ -4,6 +4,8 @@ The Food Recipe App is a simple web application that allows users to browse and 
 
 ## Features
 
+<img src="./assets/image/Screenshot 2023-08-03 202610.png">
+
 - View a list of food recipes with their names and ingredients.
 - Load and display all recipes with a single click of the "Load Recipes" button.
 - Search for recipes by entering a keyword in the search box and clicking the "Search" button.
