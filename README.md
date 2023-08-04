@@ -4,6 +4,10 @@ The Food Recipe App is a simple web application that allows users to browse and 
 
 ## Features
 
+here is the link:
+https://rich-taveras.github.io/FoodiePal/
+
+## Screenshots
 <img src="./assets/image/Screenshot 2023-08-03 202610.png">
 
 - View a list of food recipes with their names and ingredients.
@@ -46,6 +50,12 @@ In a real application, this data would be fetched from a server or a database.
 ## Note
 
 This is a basic example of a food recipe app and may not have complete features or backend integration. It serves as a starting point for further development and customization.
+
+## Credits
+- Richard Taveras
+- Julio Bermudez
+- Felipe Sierra
+- Jovanni Bogardus
 
 ## License
 
